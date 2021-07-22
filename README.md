@@ -1,1 +1,1 @@
-# -S-Nino-Explorar-sendero
+# S-Nino-Explorar-sendero
